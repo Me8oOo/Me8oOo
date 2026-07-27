@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:020617,45:0F172A,75:0EA5E9,100:8B5CF6&text=Mohanad%20Elmaghraby&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Performance%20%E2%80%A2%20MarTech&descAlignY=59&descSize=17&animation=fadeIn" alt="Mohanad Elmaghraby" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:020617,45:0F172A,75:0EA5E9,100:8B5CF6&text=Mohanad%20Elmaghraby&fontColor=F8FAFC&fontSize=50&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Infrastructure%20%7C%20Performance%20%7C%20MarTech&descAlignY=66&descSize=17&animation=fadeIn" alt="Mohanad Elmaghraby" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+fast%2C+secure+and+scalable+web+systems;Turning+technical+performance+into+business+results;React+%E2%80%A2+Next.js+%E2%80%A2+Laravel+%E2%80%A2+Cloudflare+%E2%80%A2+WHM%2FcPanel" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2300&pause=650&color=38BDF8&center=true&vCenter=true&width=980&lines=%3E+booting+developer+profile...;%3E+building+fast%2C+secure+and+scalable+systems;%3E+optimizing+production+from+frontend+to+infrastructure;%3E+turning+technical+performance+into+business+results" alt="Animated terminal introduction" />
 </a>
 
 <br/>
@@ -29,95 +29,56 @@
 
 </div>
 
-About Me
+whoami
 
-I’m a Full-Stack Developer based in Abu Dhabi, UAE, with 7+ years of experience building production websites, CMS platforms, APIs, internal tools, landing-page systems and marketing technology infrastructure.
+mohanad@github:~$ whoami
 
-My work covers the full delivery chain:
+Full-Stack Developer based in Abu Dhabi, UAE
+7+ years building production websites, CMS platforms,
+APIs, internal tools, landing-page systems and MarTech infrastructure.
 
-<table>
-<tr>
-<td width="25%" align="center">
-<h3>Build</h3>
-React, Next.js, Vue, Laravel, Node.js
-</td>
-<td width="25%" align="center">
-<h3>Engineer</h3>
-WHM/cPanel, Cloudflare, Apache, Linux
-</td>
-<td width="25%" align="center">
-<h3>Optimize</h3>
-Core Web Vitals, CDN, caching, image delivery
-</td>
-<td width="25%" align="center">
-<h3>Measure</h3>
-GTM, GA4, Google Ads, Meta Pixel, CRM
-</td>
-</tr>
-</table>
+I work across the complete delivery chain:
 
-I build digital systems that are reliable in production, fast for users, measurable for marketing and maintainable for development teams.
+Frontend        React · Next.js · Vue · TypeScript
+Backend         PHP · Laravel · Node.js · Express
+Infrastructure  WHM/cPanel · Cloudflare · Apache · Linux · Docker
+Performance     Core Web Vitals · Lighthouse · CDN · Caching
+MarTech         GTM · GA4 · Google Ads · Meta Pixel · CRM
 
-Selected Impact
+I build digital systems that are fast for users, reliable in production, measurable for marketing and maintainable for development teams.
 
-<div align="center">
+impact.log
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h2>7+</h2>
-Years of experience
-</td>
-<td align="center" width="25%">
-<h2>18 → 85–90+</h2>
-Mobile PageSpeed
-</td>
-<td align="center" width="25%">
-<h2>6 Workers</h2>
-Parallel test engine
-</td>
-<td align="center" width="25%">
-<h2>End-to-End</h2>
-Product to production
-</td>
-</tr>
-</table>
++ 7+ years of professional web development
++ Mobile PageSpeed improved from ~18 to 85–90+
++ Full production migrations across hosting, DNS, SSL and databases
++ Conversion tracking rebuilt across GTM, GA4, Google Ads and Meta Pixel
++ Bilingual Arabic/English and RTL-ready systems
++ Production workflows with layered verification and post-release monitoring
 
-</div>
-
-Led full production migrations across hosting, files, databases, DNS, SSL, permissions and post-launch verification.
-
-Rebuilt conversion tracking across GTM, GA4, Google Ads, Meta Pixel, forms, chat events and campaign attribution.
-
-Developed bilingual and RTL-ready appointment, chatbot, CRM and landing-page workflows.
-
-Improved live-site performance through LCP, CLS, TBT, image delivery, caching, script control and server tuning.
-
-Established release workflows based on backups, minimal changes, layered verification and post-deployment monitoring.
-
-Tech Stack
+stack --list
 
 Frontend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,bootstrap&perline=9" alt="Frontend stack" />
 </p>
 
 Backend & APIs
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,graphql,postman&perline=8" alt="Backend stack" />
 </p>
 
 Data, Infrastructure & Cloud
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,linux,docker,cloudflare,aws,vercel,git,github,bash,nginx&perline=13" alt="Infrastructure stack" />
 </p>
 
 Design & Workflow
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode,jira,notion&perline=8" alt="Design and workflow tools" />
 </p>
 
@@ -138,40 +99,21 @@ Platforms & Specialties
   <img src="https://img.shields.io/badge/Meta%20Pixel-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Pixel" />
 </p>
 
-Featured Engineering Work
+projects/
 
-<table>
-<tr>
-<td width="50%" valign="top">
+01_healthcare-infrastructure-rebuild
 
-Healthcare Infrastructure Rebuild
+Led a complete production migration and optimization project covering WHM/cPanel, DNS, SSL, databases, backups, permissions, Apache, PHP-FPM, Cloudflare, security hardening and post-launch verification.
 
-Led a complete production migration and optimization project covering:
-
-WHM/cPanel hosting
-
-DNS and SSL
-
-Database and file migration
-
-Apache and PHP-FPM
-
-Cloudflare caching
-
-Security hardening
-
-Post-launch validation
-
-Result: Mobile PageSpeed improved from approximately 18 to 85–90+.
+Result: Mobile PageSpeed improved from approximately 18 to a stable 85–90+.
 
 WHM/cPanel Cloudflare Apache PHP-FPM Core Web Vitals
 
-</td>
-<td width="50%" valign="top">
+02_pagespeed-intelligence-dashboard
 
-PageSpeed Intelligence Dashboard
+Built a custom PHP and JavaScript internal platform for large-scale performance monitoring.
 
-Built a custom PHP and JavaScript monitoring platform for testing large groups of URLs.
+Core features:
 
 Queued performance tests
 
@@ -181,7 +123,7 @@ Automatic retries
 
 Historical JSON storage
 
-Individual retesting
+Individual URL retesting
 
 CSV exports
 
@@ -189,62 +131,44 @@ Lighthouse-style reports
 
 PHP JavaScript PageSpeed API JSON CSV
 
-</td>
-</tr>
+03_conversion-attribution-rebuild
 
-<tr>
-<td width="50%" valign="top">
+Re-engineered conversion tracking across Google Tag Manager, GA4, Google Ads, Meta Pixel, appointment events, form submissions, CTA clicks, chat events, UTM parameters and GCLID attribution.
 
-Conversion & Attribution Rebuild
-
-Re-engineered tracking across:
-
-Google Tag Manager
-
-Google Analytics 4
-
-Google Ads
-
-Meta Pixel
-
-Appointment events
-
-Forms and CTA clicks
-
-UTM and GCLID attribution
-
-Outcome: Cleaner event architecture, reduced duplicate conversions and stronger bidding signals.
+Outcome: Cleaner event architecture, fewer duplicate conversions and more reliable bidding signals.
 
 GTM GA4 Google Ads Meta Pixel Attribution
 
-</td>
-<td width="50%" valign="top">
+04_bilingual-appointment-crm-system
 
-Bilingual Appointment & CRM System
-
-Developed an Arabic and English appointment workflow with:
-
-RTL support
-
-UAE mobile validation
-
-Timezone-aware date rules
-
-Spam safeguards
-
-Cross-origin attribution
-
-CRM integration
-
-Conversion event sequencing
+Developed an Arabic and English appointment workflow with RTL support, UAE mobile validation, timezone-aware date rules, spam safeguards, cross-origin attribution, CRM integration and conversion event sequencing.
 
 Arabic / English RTL Forms CRM Analytics
 
-</td>
-</tr>
-</table>
+05_bilingual-crm-chatbot
 
-How I Work
+Built a bilingual customer-support and lead-generation chatbot with automatic language detection, structured FAQs, dental-service categories, widget customization and CRM-connected workflows.
+
+JavaScript Zoho SalesIQ CRM Arabic / English
+
+06_reusable-landing-page-system
+
+Created reusable production components for campaign pages, CTA sections, before-and-after sliders, RTL interfaces, Joomla/Gridbox modules, SEO-friendly content structures and performance-focused media delivery.
+
+Joomla Gridbox HTML CSS JavaScript RTL
+
+workflow.sh
+
+#!/usr/bin/env bash
+
+diagnose_root_cause
+design_minimum_solution
+build_maintainable_change
+test_each_layer
+deploy_safely
+verify_origin_and_cdn
+measure_real_result
+monitor_after_release
 
 flowchart LR
     A[Diagnose] --> B[Design]
@@ -255,28 +179,7 @@ flowchart LR
     F --> G[Measure]
     G --> A
 
-<table>
-<tr>
-<td width="25%" align="center">
-<strong>Diagnose</strong><br/><br/>
-Find the real technical bottleneck before touching production.
-</td>
-<td width="25%" align="center">
-<strong>Build</strong><br/><br/>
-Create the smallest maintainable solution that solves the problem.
-</td>
-<td width="25%" align="center">
-<strong>Verify</strong><br/><br/>
-Test origin, CDN, browser, tracking and final user experience separately.
-</td>
-<td width="25%" align="center">
-<strong>Measure</strong><br/><br/>
-Confirm the result with live evidence and monitor after release.
-</td>
-</tr>
-</table>
-
-GitHub Analytics
+github --stats
 
 <div align="center">
 
@@ -286,32 +189,32 @@ GitHub Analytics
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Me8oOo&theme=github_dark" alt="Repositories by language" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Me8oOo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me8oOo&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Me8oOo&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Me8oOo&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
 
-Education & Credentials
+education.json
 
-B.Sc. in Business Information Systems — Arab Academy for Science, Technology & Maritime Transport
-
-Full-Stack Web Development Certificate — IDE Academy
-
-Certified Full-Stack Developer — Egyptian Ministry of Communications and Information Technology
-
-Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Arabic-Native-0EA5E9?style=for-the-badge" alt="Arabic" />
-  <img src="https://img.shields.io/badge/English-Professional-8B5CF6?style=for-the-badge" alt="English" />
-</p>
+{
+  "degree": "B.Sc. in Business Information Systems",
+  "university": "Arab Academy for Science, Technology & Maritime Transport",
+  "certifications": [
+    "Full-Stack Web Development Certificate — IDE Academy",
+    "Certified Full-Stack Developer — Egyptian Ministry of Communications and Information Technology"
+  ],
+  "languages": {
+    "Arabic": "Native",
+    "English": "Professional"
+  }
+}
 
 <div align="center">
 
-Let’s Build Something Strong
-
-I’m open to full-stack development, web infrastructure, performance engineering and marketing technology opportunities across the UAE, Saudi Arabia and remote teams.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=850&color=8B5CF6&center=true&vCenter=true&width=900&lines=%3E+open+to+full-stack+and+infrastructure+opportunities;%3E+UAE+%7C+Saudi+Arabia+%7C+Remote;%3E+let's+build+something+reliable%2C+fast+and+measurable" alt="Animated closing message" />
+</a>
 
 <br/>
 
@@ -324,8 +227,6 @@ I’m open to full-stack development, web infrastructure, performance engineerin
 
 <br/><br/>
 
-<sub>Full-Stack Development • Infrastructure • Performance • Marketing Technology</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,45:0F172A,75:0EA5E9,100:8B5CF6" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&section=footer&color=0:0EA5E9,50:6366F1,100:8B5CF6" alt="Footer" />
 
 </div>
