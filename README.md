@@ -66,7 +66,7 @@ Infra / Data / Cloud
 Design / Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode,jira,notion&perline=8" alt="Design and workflow" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,notion&perline=5" alt="Design and workflow" />
 </p>
 
 Specialties
@@ -204,15 +204,27 @@ UI/UX Responsive ContentHierarchy Mobile Frontend
 
 🧭 Workflow
 
-flowchart LR
-    A["🧭 Strategy"] --> B["🔎 Research"]
-    B --> C["🏗️ Architecture"]
-    C --> D["💻 Build"]
-    D --> E["🧪 Test"]
-    E --> F["🛡️ Secure"]
-    F --> G["🚀 Deploy"]
-    G --> H["✅ Verify"]
-    H --> I["📡 Monitor"]
+<p align="center">
+  <kbd>🧭 Strategy</kbd>
+  <strong>→</strong>
+  <kbd>🔎 Research</kbd>
+  <strong>→</strong>
+  <kbd>🏗️ Architecture</kbd>
+  <strong>→</strong>
+  <kbd>💻 Build</kbd>
+</p>
+
+<p align="center">
+  <kbd>🧪 Test</kbd>
+  <strong>→</strong>
+  <kbd>🛡️ Secure</kbd>
+  <strong>→</strong>
+  <kbd>🚀 Deploy</kbd>
+  <strong>→</strong>
+  <kbd>✅ Verify</kbd>
+  <strong>→</strong>
+  <kbd>📡 Monitor</kbd>
+</p>
 
 <div align="center">
 
