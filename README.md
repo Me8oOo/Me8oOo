@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&text=Mohanad%20Elmaghraby&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=Full-Stack%20Developer%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Performance%20%E2%80%A2%20Security&descAlignY=58&descSize=16&animation=fadeIn" alt="Mohanad Elmaghraby" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=255&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&text=Mohanad%20Elmaghraby&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=Full-Stack%20Developer%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Performance%20%E2%80%A2%20Security&descAlignY=58&descSize=16&animation=fadeIn" alt="Mohanad Elmaghraby" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=980&lines=%24+build+--prod;%24+optimize+--speed+--infra+--tracking;%24+secure+--verify+--ship" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://maghraby.tech">
   <img src="https://img.shields.io/badge/Portfolio-maghraby.tech-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
@@ -30,19 +30,20 @@
 
 </div>
 
-about
+⚡ About
 
-Full-Stack Developer · Web Infrastructure EngineerAbu Dhabi, UAE
+I design, build, deploy and verify end-to-end digital systems—from product logic to production infrastructure.
 
-frontend  → React · Next.js · Vue
-backend   → PHP · Laravel · Node
-infra     → WHM/cPanel · Apache · Cloudflare
-perf      → CWV · Lighthouse · PSI
-tracking  → GTM · GA4 · Ads · Meta Pixel
+<div align="center">
 
-fast • stable • secure • measurable
+<img src="https://img.shields.io/badge/Product_Engineering-2563EB?style=for-the-badge&logo=code&logoColor=white" alt="Product engineering" />
+<img src="https://img.shields.io/badge/Infrastructure-0EA5E9?style=for-the-badge&logo=linux&logoColor=white" alt="Infrastructure" />
+<img src="https://img.shields.io/badge/Performance-14B8A6?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance" />
+<img src="https://img.shields.io/badge/Security-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="Security" />
 
-stack
+</div>
+
+🧰 Stack
 
 Frontend
 
@@ -84,16 +85,20 @@ Specialties
   <img src="https://img.shields.io/badge/Meta_Pixel-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Pixel" />
 </p>
 
-impact
+📈 Impact
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/PageSpeed-18_%E2%86%92_85--90%2B-22C55E?style=for-the-badge" alt="Pagespeed improvement" />
-<img src="https://img.shields.io/badge/Migrations-Prod_Ready-0EA5E9?style=for-the-badge" alt="Migrations" />
+<img src="https://img.shields.io/badge/Migrations-Production_Ready-0EA5E9?style=for-the-badge" alt="Migrations" />
 <img src="https://img.shields.io/badge/Tracking-Rebuilt-7C3AED?style=for-the-badge" alt="Tracking" />
 <img src="https://img.shields.io/badge/Bilingual-AR_%2F_EN-F59E0B?style=for-the-badge" alt="Arabic English" />
 <img src="https://img.shields.io/badge/PSI_System-6_Workers-EA580C?style=for-the-badge" alt="PSI workers" />
 <img src="https://img.shields.io/badge/Releases-Layered_Verification-DC2626?style=for-the-badge" alt="Release verification" />
 
-projects
+</div>
+
+🚀 Projects
 
 <table>
 <tr>
@@ -101,9 +106,9 @@ projects
 
 🏥 Harmony Website
 
-Joomla Gridbox Cloudflare GTM
+<sub>Healthcare platform</sub>
 
-Healthcare web platform, infra, tracking, SEO, speed.
+Joomla Gridbox WHM/cPanel CloudflareApache PHP-FPM GTM GA4
 
 <img src="https://img.shields.io/badge/PageSpeed-18_%E2%86%92_85--90%2B-22C55E?style=flat-square" alt="Pagespeed result" />
 
@@ -112,11 +117,11 @@ Healthcare web platform, infra, tracking, SEO, speed.
 
 🔗 Prolink
 
-Private Business Production
+<sub>Business platform</sub>
 
-Business platform.Case study on request.
+Private Production Business
 
-<img src="https://img.shields.io/badge/Status-Private-64748B?style=flat-square" alt="Private project" />
+<img src="https://img.shields.io/badge/Case-Private-64748B?style=flat-square" alt="Private project" />
 
 </td>
 </tr>
@@ -126,9 +131,9 @@ Business platform.Case study on request.
 
 🤝 Harmony Partnership Platform
 
-Laravel PHP MySQL Dashboard
+<sub>Doctors · referrals · rewards</sub>
 
-Doctors • referrals • rewards • payouts.
+Laravel PHP MySQL DashboardRoles Referrals Payouts
 
 <img src="https://img.shields.io/badge/Flow-Doctors_%E2%86%92_Referrals_%E2%86%92_Rewards-2563EB?style=flat-square" alt="Referral flow" />
 
@@ -137,9 +142,9 @@ Doctors • referrals • rewards • payouts.
 
 🦷 Smile Link + Loyalty
 
-Laravel Filament CMS Catalog
+<sub>Website + rewards ecosystem</sub>
 
-Website + loyalty + brands + products.
+Laravel Filament CMS CatalogBrands Products Loyalty
 
 <img src="https://img.shields.io/badge/System-Website_%2B_Loyalty-0EA5E9?style=flat-square" alt="Website and loyalty" />
 
@@ -151,20 +156,20 @@ Website + loyalty + brands + products.
 
 📰 Dental News
 
-Content Publishing Responsive
+<sub>Publishing platform</sub>
 
-Dental media and editorial workflow.
+Content Editorial Responsive
 
-<img src="https://img.shields.io/badge/Type-Content_Platform-F59E0B?style=flat-square" alt="Content platform" />
+<img src="https://img.shields.io/badge/Type-Dental_Media-F59E0B?style=flat-square" alt="Content platform" />
 
 </td>
 <td width="50%" valign="top">
 
 ⚡ PSI System
 
-PHP JavaScript PSI API
+<sub>Performance monitoring</sub>
 
-Queued tests • retries • history • CSV.
+PHP JavaScript PSI APIQueue Retry CSV History
 
 <img src="https://img.shields.io/badge/Workers-6-DC2626?style=flat-square" alt="6 workers" />
 
@@ -176,9 +181,9 @@ Queued tests • retries • history • CSV.
 
 🛡️ Aegis Security Assessment System
 
-Python Semgrep Reports
+<sub>Security automation</sub>
 
-Scanner orchestration and security reporting.
+Python Semgrep CLIHTML/PDF Tests Reports
 
 <img src="https://img.shields.io/badge/Output-HTML_%2F_PDF-7C3AED?style=flat-square" alt="HTML PDF reports" />
 
@@ -187,9 +192,9 @@ Scanner orchestration and security reporting.
 
 🌐 Rahraha Website
 
-Brand UI/UX Responsive
+<sub>Brand website</sub>
 
-Homepage, content, hierarchy, mobile polish.
+UI/UX Responsive ContentHierarchy Mobile Frontend
 
 <img src="https://img.shields.io/badge/Focus-Brand_%2B_UI%2FUX-14B8A6?style=flat-square" alt="Brand and UI UX" />
 
@@ -197,9 +202,17 @@ Homepage, content, hierarchy, mobile polish.
 </tr>
 </table>
 
-workflow
+🧭 Workflow
 
-Strategy → Research → Architecture → Build → Test → Secure → Deploy → Verify → Monitor
+flowchart LR
+    A["🧭 Strategy"] --> B["🔎 Research"]
+    B --> C["🏗️ Architecture"]
+    C --> D["💻 Build"]
+    D --> E["🧪 Test"]
+    E --> F["🛡️ Secure"]
+    F --> G["🚀 Deploy"]
+    G --> H["✅ Verify"]
+    H --> I["📡 Monitor"]
 
 <div align="center">
 
@@ -207,11 +220,11 @@ Strategy → Research → Architecture → Build → Test → Secure → Deploy 
 <img src="https://img.shields.io/badge/Origin-Checked-0EA5E9?style=flat-square" alt="Origin checked" />
 <img src="https://img.shields.io/badge/CDN-Checked-14B8A6?style=flat-square" alt="CDN checked" />
 <img src="https://img.shields.io/badge/Tracking-Checked-F59E0B?style=flat-square" alt="Tracking checked" />
-<img src="https://img.shields.io/badge/User_Visible-Verified-22C55E?style=flat-square" alt="User visible verified" />
+<img src="https://img.shields.io/badge/User_Visible-Verified-22C55E?style=flat-square" alt="User-visible result verified" />
 
 </div>
 
-github
+📊 GitHub
 
 <div align="center">
 
@@ -221,25 +234,48 @@ github
 
 </div>
 
-education
+🎓 Credentials
 
-B.Sc. Business Information Systems
-
-Full-Stack Web Development Certificate
-
-Certified Full-Stack Developer
-
-languages
-
-
+<table>
+<tr>
+<td width="54" align="center">🎓</td>
+<td>
+<strong>B.Sc. in Business Information Systems</strong><br/>
+<sub>Arab Academy for Science, Technology & Maritime Transport</sub>
+</td>
+</tr>
+<tr>
+<td width="54" align="center">💻</td>
+<td>
+<strong>Full-Stack Web Development Certificate</strong><br/>
+<sub>IDE Academy</sub>
+</td>
+</tr>
+<tr>
+<td width="54" align="center">🏅</td>
+<td>
+<strong>Certified Full-Stack Developer</strong><br/>
+<sub>Egyptian Ministry of Communications and Information Technology</sub>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=850&color=A78BFA&center=true&vCenter=true&width=920&lines=Open+to+full-stack+%2B+infrastructure+roles;UAE+%E2%80%A2+Saudi+Arabia+%E2%80%A2+Remote;Let%27s+build+something+reliable" alt="Closing animation" />
-</a>
+<img src="https://img.shields.io/badge/Arabic-Native-2563EB?style=for-the-badge" alt="Arabic — Native" />
+<img src="https://img.shields.io/badge/English-Professional-0891B2?style=for-the-badge" alt="English — Professional proficiency" />
 
-<br/>
+</div>
+
+<div align="center">
+
+Open to Full-Stack, Infrastructure and Security Opportunities
+
+<img src="https://img.shields.io/badge/UAE-Open-0F766E?style=flat-square&logo=googlemaps&logoColor=white" alt="Open to UAE opportunities" />
+<img src="https://img.shields.io/badge/Saudi_Arabia-Open-16A34A?style=flat-square&logo=googlemaps&logoColor=white" alt="Open to Saudi Arabia opportunities" />
+<img src="https://img.shields.io/badge/Remote-Open-7C3AED?style=flat-square&logo=googlemeet&logoColor=white" alt="Open to remote opportunities" />
+
+<br/><br/>
 
 <a href="https://maghraby.tech">
   <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" />
