@@ -1,219 +1,245 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=255&color=0:020617,45:0F172A,75:1D4ED8,100:06B6D4&text=Mohanad%20Elmaghraby&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=Full-Stack%20Developer%20%E2%80%A2%20Web%20Infrastructure%20%E2%80%A2%20Performance%20%E2%80%A2%20Security&descAlignY=58&descSize=16&animation=fadeIn" alt="Mohanad Elmaghraby" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&text=Mohanad%20Elmaghraby&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=Full-Stack%20Developer%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Performance%20%E2%80%A2%20Security&descAlignY=58&descSize=16&animation=fadeIn" alt="Mohanad Elmaghraby" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2300&pause=650&color=38BDF8&center=true&vCenter=true&width=980&lines=Building+production-ready+web+systems;Engineering+from+frontend+to+infrastructure;Optimizing+performance%2C+security+and+conversion;Shipping+reliable+products+with+measurable+impact" alt="Animated developer introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=980&lines=%24+build+--prod;%24+optimize+--speed+--infra+--tracking;%24+secure+--verify+--ship" alt="Typing animation" />
 </a>
 
-<br />
+<br/>
 
 <a href="https://maghraby.tech">
   <img src="https://img.shields.io/badge/Portfolio-maghraby.tech-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:me8a.mohanad@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://wa.me/971508262670">
-  <img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 <a href="https://github.com/Me8oOo?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br /><br />
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Experience-7%2B_Years-0EA5E9?style=flat-square" alt="7+ years of experience" />
-<img src="https://img.shields.io/badge/Location-Abu_Dhabi%2C_UAE-14B8A6?style=flat-square&logo=googlemaps&logoColor=white" alt="Abu Dhabi, UAE" />
-<img src="https://img.shields.io/badge/Focus-Full--Stack_%2B_Infrastructure-7C3AED?style=flat-square" alt="Full-stack and infrastructure" />
-<img src="https://komarev.com/ghpvc/?username=Me8oOo&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Abu_Dhabi-UAE-0F766E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Experience-7%2B_Years-0EA5E9?style=flat-square" alt="Experience" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack_%2B_Infra-7C3AED?style=flat-square" alt="Focus" />
+<img src="https://komarev.com/ghpvc/?username=Me8oOo&label=Views&color=2563EB&style=flat-square" alt="Profile views" />
 
 </div>
 
-About Me
+about
 
-I’m a Full-Stack Developer and Web Infrastructure Engineer based in Abu Dhabi, UAE, with 7+ years of experience building production websites, CMS platforms, APIs, internal systems, performance tools and marketing technology infrastructure.
+Full-Stack Developer · Web Infrastructure EngineerAbu Dhabi, UAE
 
-I work across the complete delivery chain:
+frontend  → React · Next.js · Vue
+backend   → PHP · Laravel · Node
+infra     → WHM/cPanel · Apache · Cloudflare
+perf      → CWV · Lighthouse · PSI
+tracking  → GTM · GA4 · Ads · Meta Pixel
 
-Frontend       React · Next.js · Vue.js · TypeScript · JavaScript
-Backend        PHP · Laravel · Node.js · Express.js · REST APIs
-Infrastructure WHM/cPanel · Apache · PHP-FPM · Linux · Docker · Cloudflare
-Performance    Core Web Vitals · Lighthouse · PageSpeed · CDN · Caching
-MarTech        GTM · GA4 · Google Ads · Meta Pixel · CRM · Attribution
+fast • stable • secure • measurable
 
-My goal is simple: build systems that are fast for users, stable in production, measurable for marketing and maintainable for development teams.
-
-Professional Impact
-
-Improved a production website’s mobile PageSpeed score from approximately 18 to a stable 85–90+.
-
-Led production migrations covering hosting, files, databases, DNS, SSL, permissions, backups and post-launch verification.
-
-Rebuilt conversion tracking across GTM, GA4, Google Ads, Meta Pixel, forms, CTA events and campaign attribution.
-
-Developed bilingual Arabic/English and RTL-ready interfaces, forms, landing pages and chatbot workflows.
-
-Built internal monitoring tools with queued execution, automatic retries, historical data and six parallel workers.
-
-Established safer release workflows using scoped changes, rollback planning, layered verification and post-deployment monitoring.
-
-Tech Stack
+stack
 
 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,bootstrap&perline=9" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,bootstrap&perline=9" alt="Frontend" />
 </p>
 
-Backend and APIs
+Backend / APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,graphql,postman&perline=8" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,graphql,postman&perline=8" alt="Backend" />
 </p>
 
-Databases, Infrastructure and Cloud
+Infra / Data / Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,linux,docker,cloudflare,aws,vercel,git,github,bash,nginx&perline=13" alt="Infrastructure technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,linux,docker,cloudflare,aws,git,github,bash,nginx&perline=12" alt="Infrastructure" />
 </p>
 
-Design and Workflow
+Design / Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode,jira,notion&perline=8" alt="Design and workflow tools" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode,jira,notion&perline=8" alt="Design and workflow" />
 </p>
 
-Platforms and Specialties
+Specialties
 
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white" alt="Joomla" />
   <img src="https://img.shields.io/badge/Gridbox-111827?style=flat-square&logo=joomla&logoColor=white" alt="Gridbox" />
-  <img src="https://img.shields.io/badge/WHM%20%2F%20cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="WHM and cPanel" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP-FPM" />
-  <img src="https://img.shields.io/badge/Core%20Web%20Vitals-0EA5E9?style=flat-square&logo=lighthouse&logoColor=white" alt="Core Web Vitals" />
-  <img src="https://img.shields.io/badge/Technical%20SEO-16A34A?style=flat-square&logo=google&logoColor=white" alt="Technical SEO" />
-  <img src="https://img.shields.io/badge/GTM-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" alt="Google Tag Manager" />
-  <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/Meta%20Pixel-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Pixel" />
+  <img src="https://img.shields.io/badge/WHM%20%2F%20cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="WHM cPanel" />
+  <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP FPM" />
+  <img src="https://img.shields.io/badge/Core_Web_Vitals-0EA5E9?style=flat-square&logo=lighthouse&logoColor=white" alt="Core Web Vitals" />
+  <img src="https://img.shields.io/badge/Technical_SEO-16A34A?style=flat-square&logo=google&logoColor=white" alt="Technical SEO" />
+  <img src="https://img.shields.io/badge/GTM-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" alt="GTM" />
+  <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4" />
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/Meta_Pixel-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Pixel" />
 </p>
 
-Selected Projects
+impact
 
-01 — Harmony Website
+<img src="https://img.shields.io/badge/PageSpeed-18_%E2%86%92_85--90%2B-22C55E?style=for-the-badge" alt="Pagespeed improvement" />
+<img src="https://img.shields.io/badge/Migrations-Prod_Ready-0EA5E9?style=for-the-badge" alt="Migrations" />
+<img src="https://img.shields.io/badge/Tracking-Rebuilt-7C3AED?style=for-the-badge" alt="Tracking" />
+<img src="https://img.shields.io/badge/Bilingual-AR_%2F_EN-F59E0B?style=for-the-badge" alt="Arabic English" />
+<img src="https://img.shields.io/badge/PSI_System-6_Workers-EA580C?style=for-the-badge" alt="PSI workers" />
+<img src="https://img.shields.io/badge/Releases-Layered_Verification-DC2626?style=for-the-badge" alt="Release verification" />
 
-Production healthcare website work covering Joomla/Gridbox development, WHM/cPanel infrastructure, Cloudflare, Apache, PHP-FPM, OPcache, DNS, SSL, backups, permissions, security hardening, technical SEO, conversion tracking and release verification.
+projects
 
-A major performance initiative improved the mobile PageSpeed score from approximately 18 to 85–90+ through targeted LCP, CLS and TBT optimization, image delivery improvements, caching and third-party script control.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Joomla Gridbox WHM/cPanel Cloudflare Apache PHP-FPM GTM GA4
+🏥 Harmony Website
 
-02 — Prolink
+Joomla Gridbox Cloudflare GTM
 
-A private production business platform included in my professional portfolio.
+Healthcare web platform, infra, tracking, SEO, speed.
 
-My involvement focused on technical delivery and supporting the platform as part of a wider business ecosystem. Implementation details remain private.
+<img src="https://img.shields.io/badge/PageSpeed-18_%E2%86%92_85--90%2B-22C55E?style=flat-square" alt="Pagespeed result" />
 
-Private Production Project Business Platform
+</td>
+<td width="50%" valign="top">
 
-03 — Harmony Partnership Platform
+🔗 Prolink
 
-A referral and partnership platform for external doctors, designed to manage doctor registration, patient referrals, case status, eligibility, rewards and payout workflows.
+Private Business Production
 
-The platform includes doctor and administrator roles, protected dashboards, partner profiles, referral timelines, status management, duplicate checks, expiry rules and private financial visibility.
+Business platform.Case study on request.
 
-Laravel PHP MySQL Role-Based Access Referral Workflows Admin Dashboard
+<img src="https://img.shields.io/badge/Status-Private-64748B?style=flat-square" alt="Private project" />
 
-04 — Smile Link Website + Loyalty System
+</td>
+</tr>
 
-A combined dental-laboratory website and loyalty ecosystem covering brand presentation, CMS-controlled company pages, product architecture, catalogs, categories, brands and customer rewards.
+<tr>
+<td width="50%" valign="top">
 
-The loyalty platform is built around a Laravel/Filament system, while the website work focuses on a modern clinical identity, CMS-driven content, responsive behavior and scalable product architecture.
+🤝 Harmony Partnership Platform
 
-Laravel Filament CMS Architecture Product Catalog Loyalty System Responsive UI
+Laravel PHP MySQL Dashboard
 
-05 — Dental News
+Doctors • referrals • rewards • payouts.
 
-A dental content and publishing platform created to organize and present industry news, professional articles and healthcare-related content.
+<img src="https://img.shields.io/badge/Flow-Doctors_%E2%86%92_Referrals_%E2%86%92_Rewards-2563EB?style=flat-square" alt="Referral flow" />
 
-The project focuses on structured publishing, clear content hierarchy, responsive presentation and maintainable editorial workflows.
+</td>
+<td width="50%" valign="top">
 
-Content Platform Dental Media Publishing Workflow Responsive Web
+🦷 Smile Link + Loyalty
 
-06 — PSI System
+Laravel Filament CMS Catalog
 
-A custom PageSpeed Insights monitoring system built with PHP and JavaScript for structured testing across large URL sets.
+Website + loyalty + brands + products.
 
-It includes queued tests, six parallel workers, automatic retries, URL retesting, historical JSON storage, CSV exports and Lighthouse-style performance reports.
+<img src="https://img.shields.io/badge/System-Website_%2B_Loyalty-0EA5E9?style=flat-square" alt="Website and loyalty" />
 
-PHP JavaScript PageSpeed Insights API JSON CSV Performance Monitoring
+</td>
+</tr>
 
-07 — Aegis Security Assessment System
+<tr>
+<td width="50%" valign="top">
 
-A security assessment and reporting system designed to coordinate scanner execution, normalize findings and generate truthful technical reports.
+📰 Dental News
 
-The system includes assessment orchestration, scanner adapters, Semgrep integration, execution-state handling, finding semantics, local-mode metadata, HTML/PDF reporting and automated verification tests.
+Content Publishing Responsive
 
-Python Semgrep Security Automation CLI HTML/PDF Reports Automated Testing
+Dental media and editorial workflow.
 
-08 — Rahraha Website
+<img src="https://img.shields.io/badge/Type-Content_Platform-F59E0B?style=flat-square" alt="Content platform" />
 
-A brand-focused website project involving homepage improvements, character pages, content replacement, responsive behavior and wider UI/UX modernization.
+</td>
+<td width="50%" valign="top">
 
-The work focuses on stronger brand consistency, clearer hierarchy, improved typography, spacing, imagery, calls to action and mobile presentation.
+⚡ PSI System
 
-Brand Website Responsive Design UI/UX Content Architecture Frontend Development
+PHP JavaScript PSI API
 
-Engineering Workflow
+Queued tests • retries • history • CSV.
+
+<img src="https://img.shields.io/badge/Workers-6-DC2626?style=flat-square" alt="6 workers" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🛡️ Aegis Security Assessment System
+
+Python Semgrep Reports
+
+Scanner orchestration and security reporting.
+
+<img src="https://img.shields.io/badge/Output-HTML_%2F_PDF-7C3AED?style=flat-square" alt="HTML PDF reports" />
+
+</td>
+<td width="50%" valign="top">
+
+🌐 Rahraha Website
+
+Brand UI/UX Responsive
+
+Homepage, content, hierarchy, mobile polish.
+
+<img src="https://img.shields.io/badge/Focus-Brand_%2B_UI%2FUX-14B8A6?style=flat-square" alt="Brand and UI UX" />
+
+</td>
+</tr>
+</table>
+
+workflow
 
 Strategy → Research → Architecture → Build → Test → Secure → Deploy → Verify → Monitor
 
-I verify production work in layers:
+<div align="center">
 
-Application behavior
+<img src="https://img.shields.io/badge/Application-Checked-2563EB?style=flat-square" alt="Application checked" />
+<img src="https://img.shields.io/badge/Origin-Checked-0EA5E9?style=flat-square" alt="Origin checked" />
+<img src="https://img.shields.io/badge/CDN-Checked-14B8A6?style=flat-square" alt="CDN checked" />
+<img src="https://img.shields.io/badge/Tracking-Checked-F59E0B?style=flat-square" alt="Tracking checked" />
+<img src="https://img.shields.io/badge/User_Visible-Verified-22C55E?style=flat-square" alt="User visible verified" />
 
-Server and origin response
+</div>
 
-CDN and cache behavior
-
-Browser rendering
-
-Analytics and conversion events
-
-Final user-visible result
-
-GitHub Activity
+github
 
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Me8oOo&theme=github_dark" alt="GitHub profile details" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Me8oOo&bg_color=0D1117&color=7DD3FC&line=38BDF8&point=06B6D4&area=true&area_color=2563EB&hide_border=true" alt="GitHub contribution activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Me8oOo&bg_color=0D1117&color=7DD3FC&line=38BDF8&point=06B6D4&area=true&area_color=2563EB&hide_border=true" alt="GitHub activity" />
 
 </div>
 
-Education and Certifications
+education
 
-B.Sc. in Business Information SystemsArab Academy for Science, Technology & Maritime Transport
+B.Sc. Business Information Systems
 
-Full-Stack Web Development CertificateIDE Academy
+Full-Stack Web Development Certificate
 
-Certified Full-Stack DeveloperEgyptian Ministry of Communications and Information Technology
+Certified Full-Stack Developer
 
-Languages
+languages
 
 
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=930&lines=Open+to+full-stack%2C+infrastructure+and+security+opportunities;UAE+%E2%80%A2+Saudi+Arabia+%E2%80%A2+Remote;Let%27s+build+something+reliable%2C+fast+and+measurable" alt="Animated contact message" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=850&color=A78BFA&center=true&vCenter=true&width=920&lines=Open+to+full-stack+%2B+infrastructure+roles;UAE+%E2%80%A2+Saudi+Arabia+%E2%80%A2+Remote;Let%27s+build+something+reliable" alt="Closing animation" />
 </a>
 
-<br />
+<br/>
 
 <a href="https://maghraby.tech">
   <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" />
@@ -222,9 +248,7 @@ Languages
   <img src="https://img.shields.io/badge/CONTACT_ME-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact me" />
 </a>
 
-<br /><br />
-
-Engineering digital systems where performance, infrastructure and business results meet.
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:0F172A,75:1D4ED8,100:06B6D4" alt="Footer" />
 
