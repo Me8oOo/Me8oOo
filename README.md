@@ -1,232 +1,149 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:020617,45:0F172A,75:0EA5E9,100:8B5CF6&text=Mohanad%20Elmaghraby&fontColor=F8FAFC&fontSize=50&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Infrastructure%20%7C%20Performance%20%7C%20MarTech&descAlignY=66&descSize=17&animation=fadeIn" alt="Mohanad Elmaghraby" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=245&amp;color=0:020617,45:0F172A,75:0284C7,100:7C3AED&amp;text=Mohanad%20Elmaghraby&amp;fontColor=F8FAFC&amp;fontSize=50&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Performance%20%E2%80%A2%20MarTech&amp;descAlignY=58&amp;descSize=17&amp;animation=fadeIn" alt="Mohanad Elmaghraby" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2300&pause=650&color=38BDF8&center=true&vCenter=true&width=980&lines=%3E+booting+developer+profile...;%3E+building+fast%2C+secure+and+scalable+systems;%3E+optimizing+production+from+frontend+to+infrastructure;%3E+turning+technical+performance+into+business+results" alt="Animated terminal introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2200&amp;pause=650&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%24+whoami;%24+building+production-ready+web+systems;%24+optimizing+code%2C+infrastructure+and+conversion;%24+shipping+fast%2C+secure+and+measurable+products" alt="Animated developer introduction" />
 </a>
 
-<br/>
+<br />
 
 <a href="https://maghraby.tech">
-  <img src="https://img.shields.io/badge/PORTFOLIO-maghraby.tech-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-maghraby.tech-0284C7?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:me8a.mohanad@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-me8a.mohanad%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 <a href="https://wa.me/971508262670">
-  <img src="https://img.shields.io/badge/WHATSAPP-CONTACT_ME-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WhatsApp-%2B971%2050%20826%202670-22C55E?style=flat-square&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" />
 </a>
 <a href="https://github.com/Me8oOo?tab=repositories">
-  <img src="https://img.shields.io/badge/GITHUB-EXPLORE_WORK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  <img src="https://img.shields.io/badge/Repositories-View%20Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Me8oOo&label=PROFILE+VIEWS&color=0EA5E9&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Me8oOo?label=FOLLOWERS&style=flat-square&color=8B5CF6&logo=github" alt="Followers" />
-<img src="https://img.shields.io/badge/LOCATION-Abu_Dhabi%2C_UAE-14B8A6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 
 </div>
 
-whoami
+./about
 
-mohanad@github:~$ whoami
+I’m a Full-Stack Developer based in Abu Dhabi, UAE, with 7+ years of experience building production websites, CMS platforms, APIs, internal tools, landing-page systems and marketing technology infrastructure.
 
-Full-Stack Developer based in Abu Dhabi, UAE
-7+ years building production websites, CMS platforms,
-APIs, internal tools, landing-page systems and MarTech infrastructure.
+I work across the full delivery chain—from frontend architecture and backend development to hosting, Cloudflare, performance engineering, analytics and production verification.
 
-I work across the complete delivery chain:
+My focus: build systems that are fast for users, stable in production, measurable for marketing and maintainable for development teams.
 
-Frontend        React · Next.js · Vue · TypeScript
-Backend         PHP · Laravel · Node.js · Express
-Infrastructure  WHM/cPanel · Cloudflare · Apache · Linux · Docker
-Performance     Core Web Vitals · Lighthouse · CDN · Caching
-MarTech         GTM · GA4 · Google Ads · Meta Pixel · CRM
+./toolchain
 
-I build digital systems that are fast for users, reliable in production, measurable for marketing and maintainable for development teams.
+<pre>
+frontend        React · Next.js · Vue.js · TypeScript · JavaScript
+backend         PHP · Laravel · Node.js · Express.js · REST APIs · GraphQL
+cms             WordPress · Joomla · Gridbox · Custom Themes · Plugins
+data            MySQL · PostgreSQL · MongoDB · Firebase
+infrastructure  WHM/cPanel · Apache · PHP-FPM · Linux · Docker · Cloudflare
+performance     Core Web Vitals · Lighthouse · PageSpeed · CDN · Caching
+martech         GTM · GA4 · Google Ads · Meta Pixel · CRM · Attribution
+workflow        Git · GitHub · Postman · Jira · Figma · Technical QA
+</pre>
 
-impact.log
+./impact
 
-+ 7+ years of professional web development
-+ Mobile PageSpeed improved from ~18 to 85–90+
-+ Full production migrations across hosting, DNS, SSL and databases
-+ Conversion tracking rebuilt across GTM, GA4, Google Ads and Meta Pixel
-+ Bilingual Arabic/English and RTL-ready systems
-+ Production workflows with layered verification and post-release monitoring
+performance — Improved mobile PageSpeed from approximately 18 to a stable 85–90+.
 
-stack --list
+infrastructure — Led production migrations covering hosting, databases, files, DNS, SSL, permissions and post-launch verification.
 
-Frontend
+tracking — Rebuilt conversion infrastructure across GTM, GA4, Google Ads, Meta Pixel, forms, CTA events and campaign attribution.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,bootstrap&perline=9" alt="Frontend stack" />
-</p>
+localization — Developed bilingual Arabic/English and RTL-ready interfaces, forms, landing pages and chatbot workflows.
 
-Backend & APIs
+delivery — Established safer releases using backups, scoped changes, layered verification and post-deployment monitoring.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,graphql,postman&perline=8" alt="Backend stack" />
-</p>
+./selected-work
 
-Data, Infrastructure & Cloud
+Healthcare Website Infrastructure Rebuild
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,linux,docker,cloudflare,aws,vercel,git,github,bash,nginx&perline=13" alt="Infrastructure stack" />
-</p>
+Led the migration of a live Joomla/Gridbox website into a WHM/cPanel production environment. The work covered domains, DNS, SSL, databases, backups, file permissions, Apache, PHP-FPM, OPcache, Cloudflare, security hardening and final production validation.
 
-Design & Workflow
+Result: Mobile PageSpeed increased from approximately 18 to 85–90+, while keeping the live environment stable.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode,jira,notion&perline=8" alt="Design and workflow tools" />
-</p>
+WHM/cPanel Cloudflare Apache PHP-FPM Joomla Core Web Vitals
 
-Platforms & Specialties
+PageSpeed Insights Dashboard
 
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white" alt="Joomla" />
-  <img src="https://img.shields.io/badge/Gridbox-111827?style=flat-square&logo=joomla&logoColor=white" alt="Gridbox" />
-  <img src="https://img.shields.io/badge/WHM%20%2F%20cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="WHM and cPanel" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP-FPM" />
-  <img src="https://img.shields.io/badge/Core%20Web%20Vitals-0EA5E9?style=flat-square&logo=lighthouse&logoColor=white" alt="Core Web Vitals" />
-  <img src="https://img.shields.io/badge/Technical%20SEO-16A34A?style=flat-square&logo=google&logoColor=white" alt="Technical SEO" />
-  <img src="https://img.shields.io/badge/GTM-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" alt="Google Tag Manager" />
-  <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/Meta%20Pixel-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Pixel" />
-</p>
+Built a custom internal dashboard using PHP and JavaScript to run structured performance tests across large URL sets.
 
-projects/
-
-01_healthcare-infrastructure-rebuild
-
-Led a complete production migration and optimization project covering WHM/cPanel, DNS, SSL, databases, backups, permissions, Apache, PHP-FPM, Cloudflare, security hardening and post-launch verification.
-
-Result: Mobile PageSpeed improved from approximately 18 to a stable 85–90+.
-
-WHM/cPanel Cloudflare Apache PHP-FPM Core Web Vitals
-
-02_pagespeed-intelligence-dashboard
-
-Built a custom PHP and JavaScript internal platform for large-scale performance monitoring.
-
-Core features:
-
-Queued performance tests
-
-Six parallel workers
-
-Automatic retries
-
-Historical JSON storage
-
-Individual URL retesting
-
-CSV exports
-
-Lighthouse-style reports
+It includes queued test execution, six parallel workers, automatic retries, URL retesting, historical JSON storage, CSV exports and Lighthouse-style performance reports.
 
 PHP JavaScript PageSpeed API JSON CSV
 
-03_conversion-attribution-rebuild
+Conversion Tracking Infrastructure
 
-Re-engineered conversion tracking across Google Tag Manager, GA4, Google Ads, Meta Pixel, appointment events, form submissions, CTA clicks, chat events, UTM parameters and GCLID attribution.
+Rebuilt the complete conversion architecture across Google Tag Manager, GA4, Google Ads, Meta Pixel, appointment forms, CTA clicks, chat events, UTM parameters and GCLID attribution.
 
-Outcome: Cleaner event architecture, fewer duplicate conversions and more reliable bidding signals.
+The implementation reduced duplicate conversion signals and created a cleaner event map for reporting and campaign optimization.
 
 GTM GA4 Google Ads Meta Pixel Attribution
 
-04_bilingual-appointment-crm-system
+Bilingual Appointment and CRM System
 
-Developed an Arabic and English appointment workflow with RTL support, UAE mobile validation, timezone-aware date rules, spam safeguards, cross-origin attribution, CRM integration and conversion event sequencing.
+Developed an Arabic and English appointment workflow with RTL support, UAE mobile validation, timezone-aware date logic, spam protection, cross-origin attribution, CRM integration and conversion-event sequencing.
 
 Arabic / English RTL Forms CRM Analytics
 
-05_bilingual-crm-chatbot
+Bilingual CRM Chatbot
 
-Built a bilingual customer-support and lead-generation chatbot with automatic language detection, structured FAQs, dental-service categories, widget customization and CRM-connected workflows.
+Built a bilingual customer-support and lead-generation chatbot with automatic language detection, structured FAQs, service-based content categories, custom widget behavior and CRM-connected workflows.
 
 JavaScript Zoho SalesIQ CRM Arabic / English
 
-06_reusable-landing-page-system
+Reusable Landing Page System
 
-Created reusable production components for campaign pages, CTA sections, before-and-after sliders, RTL interfaces, Joomla/Gridbox modules, SEO-friendly content structures and performance-focused media delivery.
+Created reusable campaign components for responsive landing pages, CTA sections, before-and-after sliders, RTL layouts, Joomla/Gridbox modules, SEO-friendly structures and optimized media delivery.
 
 Joomla Gridbox HTML CSS JavaScript RTL
 
-workflow.sh
+./engineering-principles
 
-#!/usr/bin/env bash
+01  diagnose the root cause before changing production
+02  build the smallest maintainable solution
+03  test configuration, origin, CDN, browser and tracking separately
+04  verify the original user-visible problem
+05  measure the result and monitor after release
 
-diagnose_root_cause
-design_minimum_solution
-build_maintainable_change
-test_each_layer
-deploy_safely
-verify_origin_and_cdn
-measure_real_result
-monitor_after_release
-
-flowchart LR
-    A[Diagnose] --> B[Design]
-    B --> C[Build]
-    C --> D[Test]
-    D --> E[Deploy]
-    E --> F[Verify]
-    F --> G[Measure]
-    G --> A
-
-github --stats
+./contribution-activity
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Me8oOo&theme=github_dark" alt="Profile details" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Me8oOo&amp;bg_color=0D1117&amp;color=7DD3FC&amp;line=38BDF8&amp;point=C4B5FD&amp;area=true&amp;area_color=7C3AED&amp;hide_border=true" alt="Mohanad Elmaghraby GitHub contribution activity" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Me8oOo&theme=github_dark" alt="GitHub stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Me8oOo&theme=github_dark" alt="Repositories by language" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Me8oOo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Me8oOo&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Me8oOo&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+<img src="https://komarev.com/ghpvc/?username=Me8oOo&amp;label=PROFILE%20VIEWS&amp;color=0284C7&amp;style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Me8oOo?label=FOLLOWERS&amp;style=flat-square&amp;color=7C3AED&amp;logo=github" alt="GitHub followers" />
 
 </div>
 
-education.json
+./education
 
-{
-  "degree": "B.Sc. in Business Information Systems",
-  "university": "Arab Academy for Science, Technology & Maritime Transport",
-  "certifications": [
-    "Full-Stack Web Development Certificate — IDE Academy",
-    "Certified Full-Stack Developer — Egyptian Ministry of Communications and Information Technology"
-  ],
-  "languages": {
-    "Arabic": "Native",
-    "English": "Professional"
-  }
-}
+B.Sc. in Business Information SystemsArab Academy for Science, Technology & Maritime Transport
+
+Full-Stack Web Development CertificateIDE Academy
+
+Certified Full-Stack DeveloperEgyptian Ministry of Communications and Information Technology
+
+Languages: Arabic — Native · English — Professional proficiency
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=850&color=8B5CF6&center=true&vCenter=true&width=900&lines=%3E+open+to+full-stack+and+infrastructure+opportunities;%3E+UAE+%7C+Saudi+Arabia+%7C+Remote;%3E+let's+build+something+reliable%2C+fast+and+measurable" alt="Animated closing message" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=18&amp;duration=2400&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%24+open+to+full-stack+and+infrastructure+opportunities;%24+UAE+%7C+Saudi+Arabia+%7C+Remote;%24+let%27s+build+something+reliable+and+fast" alt="Animated contact message" />
 </a>
 
-<br/>
+<br />
 
 <a href="https://maghraby.tech">
-  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" />
+  <img src="https://img.shields.io/badge/View%20Portfolio-0284C7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="View portfolio" />
 </a>
 <a href="mailto:me8a.mohanad@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT_ME-8B5CF6?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact me" />
+  <img src="https://img.shields.io/badge/Contact%20Me-7C3AED?style=for-the-badge&amp;logo=minutemailer&amp;logoColor=white" alt="Contact me" />
 </a>
 
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:020617,45:0F172A,75:0284C7,100:7C3AED" alt="Footer" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&section=footer&color=0:0EA5E9,50:6366F1,100:8B5CF6" alt="Footer" />
-
-</div>q
+</div>
