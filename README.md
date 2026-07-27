@@ -229,4 +229,4 @@ education.json
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&section=footer&color=0:0EA5E9,50:6366F1,100:8B5CF6" alt="Footer" />
 
-</div>
+</div>q
